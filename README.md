@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyeon111&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyeon111&show_icons=true&theme=dark)
 <!--
 **yyeon111/yyeon111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
